@@ -21,5 +21,5 @@ I generally followed the superb [OC-Laptop-Guide](https://1revenger1.gitbook.io/
 I Suggest using [ProperTree](https://github.com/corpnewt/ProperTree) to do plist modifications 
 ## Steps to Get Sound working
 1. Inject Audio-Layout in config.plist
-	1. ![Inject Layout](Layout-insertion.png)
-	2.  
+	1. ![Inject Layout](https://github.com/z0mBy91/Lenovo-L450-Opencore-Hackintosh/blob/master/Layout-Insertion.png)
+	2.  a
