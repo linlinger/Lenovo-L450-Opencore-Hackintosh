@@ -1,7 +1,9 @@
 # Lenovo-L450-Opencore-Hackintosh
 
 ## Working / not working
-* Graphics out of the Box
+Working:
+
+* iGPU
 * Kexts for Reaktek Wifi Adapters already on EFI Parition, you only have to install Wireless Adapter ([https://github.com/chris1111/Wireless-USB-Adapter-Clover](https://github.com/chris1111/Wireless-USB-Adapter-Clover)) and remove the Clover folder from your EFI Partition :)
 * Sound (including DP HDMI Out, working Headphone Jack)
 * Trackpad and Trackpoint
@@ -15,6 +17,9 @@ Working on:
 
 
 ## General
-I generally followed the superb oc-laptop-guide, modifying slightly along the Way: 
-[https://1revenger1.gitbook.io/laptop-guide/](https://1revenger1.gitbook.io/laptop-guide/)
-
+I generally followed the superb [OC-Laptop-Guide](https://1revenger1.gitbook.io/laptop-guide/), modifying slightly along the Way.
+I Suggest using [ProperTree](https://github.com/corpnewt/ProperTree) to do plist modifications 
+## Steps to Get Sound working
+1. Inject Audio-Layout in config.plist
+	1. ![Inject Layout](/Users/johannes/Desktop/Bildschirmfoto\ 2020-04-01\ um\ 13.03.40.png)
+	2.  
