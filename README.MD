@@ -21,5 +21,5 @@ I generally followed the superb [OC-Laptop-Guide](https://1revenger1.gitbook.io/
 I Suggest using [ProperTree](https://github.com/corpnewt/ProperTree) to do plist modifications 
 ## Steps to Get Sound working
 1. Inject Audio-Layout in config.plist
-	1. ![Inject Layout](/Users/johannes/Desktop/Bildschirmfoto\ 2020-04-01\ um\ 13.03.40.png)
+	1. ![Inject Layout](Layout-insertion.png)
 	2.  
